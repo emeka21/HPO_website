@@ -22,6 +22,9 @@ p {
 .navbar-nav li .cta:hover {
   color: #fff !important;
 }
+#counter {
+  padding: 140px 0
+}
 #banner .navbar {
   border-top: 20px solid #191d4a;
   background-color: #fff !important;
